@@ -40,7 +40,7 @@ SQLite Database
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Kotlin
 - Android SDK
